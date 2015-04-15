@@ -18,7 +18,7 @@ msgstr ""
 #: admin/qtx_configuration.php:633
 #, php-format
 msgid "It might be a good idea to review %smigration instructions%s, if you have not yet done so."
-msgstr ""
+msgstr "It might be a good idea to review %smigration instructions%s, sekiranya anda belum berbuat demikian."
 
 #: admin/qtx_activation_hook.php:93
 #, php-format
